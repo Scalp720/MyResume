@@ -11,7 +11,7 @@ const shrikhand = Shrikhand({
 
 const Hero = () => {
   return (
-    <div className='min-h-screen flex flex-col lg:flex-row justify-center lg:justify-around items-center px-4 sm:px-6 md:px-8 lg:px-12 xl:px-16 pt-16 sm:pt-20 pb-8 lg:pb-0 gap-8 lg:gap-12'>
+    <div className="min-h-screen flex flex-col lg:flex-row justify-center lg:justify-around items-center px-4 sm:px-6 md:px-8 lg:px-12 xl:px-16 pt-16 sm:pt-20 pb-8 lg:pb-0 gap-8 lg:gap-12">
       {/* Left Side - Content */}
       <div className={`text-center lg:text-left order-2 lg:order-1 max-w-lg lg:max-w-none ${shrikhand.className}`}>
         {/* Greeting */}
@@ -63,7 +63,7 @@ const Hero = () => {
       </div>
       
       {/* Right Side - Profile Image */}
-      <div className='order-1 lg:order-2 flex-shrink-0 w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg xl:max-w-xl'>
+      <div className="order-1 lg:order-2 flex-shrink-0 w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg xl:max-w-xl">
         <img 
           src="/img/Picture.svg" 
           alt="Rowel - UI/UX Designer & Software Developer" 

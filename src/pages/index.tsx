@@ -5,7 +5,6 @@ import Skills from '@/components/Skills';
 import AchievementsShowcase from '@/components/Achievements';
 import Resume from '@/components/Resume';
 import Footers from '@/components/Footers';
-import global from 'global.css'
 
 
 export default function HomePage() {

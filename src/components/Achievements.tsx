@@ -18,11 +18,6 @@ const shrikhand = Shrikhand({
     weight: '400',
     variable: '--font-shrikhand',
 });
-const rubik = Rubik({
-    subsets: ['latin'],
-    weight: '400',
-    variable: '--font-rubik',
-});
 
 // Define Achievement Type
 type Achievement = {
