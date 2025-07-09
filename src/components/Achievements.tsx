@@ -10,7 +10,7 @@ import {
     ChevronDown,
     ChevronUp,
 } from 'lucide-react';
-import { Shrikhand, Rubik } from 'next/font/google';
+import { Shrikhand} from 'next/font/google';
 
 // Load fonts
 const shrikhand = Shrikhand({
