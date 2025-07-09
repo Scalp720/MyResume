@@ -16,7 +16,7 @@ const Hero = () => {
       <div className={`text-center lg:text-left order-2 lg:order-1 max-w-lg lg:max-w-none ${shrikhand.className}`}>
         {/* Greeting */}
         <h3 className="text-lg sm:text-xl md:text-2xl lg:text-3xl font-semibold mb-1 sm:mb-2 text-[#FBF8EF]">
-          Hi There, I'm
+          Hi There,  I&rsquo;m
         </h3>
         
         {/* Main Name */}

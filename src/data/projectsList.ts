@@ -1,7 +1,3 @@
-import { link } from "fs";
-
-
-
 const projects = [
     // Speed Wash
     {
